@@ -1,0 +1,6 @@
+{
+  "name": "ShieldScribe",
+  "description": "Professional cybersecurity documentation, tailored to your business. Clear policies and stronger security foundations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
